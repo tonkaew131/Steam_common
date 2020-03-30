@@ -1,7 +1,7 @@
 import requests 
 import json
 
-token = "B0165406E707D5F439954C2CB1A9984B"
+token = ""
 #https://steamcommunity.com/dev/apikey
 
 def commonElements(arr): 
