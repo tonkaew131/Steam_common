@@ -2,11 +2,11 @@
 
 Find common game in you and your friend's inventory
 
-# Install
+## Install
 ```
 pip install requests
 ```
-# Run
+## Run
 
 ```
 python st.py
